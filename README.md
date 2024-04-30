@@ -1,2 +1,2 @@
 # Investment-Website
-y website serves as a testame development 
+I have created a website template focused on public investment, designed to be user-friendly and visually engaging. This template, built using JavaScript and CSS, is now available on GitHub for public use. By sharing this template, I aim to contribute to the community and help others create similar websites with ease. Feel free to use and modify this template for your own projects!
